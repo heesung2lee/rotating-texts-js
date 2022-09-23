@@ -8,7 +8,7 @@ body {
 
 .text {
   position: absolute;
-  width: 450px;
+  width: 1000px;
   left: 50%;
   margin-left: -225px;
   height: 40px;
@@ -24,7 +24,7 @@ p {
 
 .word {
   position: absolute;
-  width: 220px;
+  width: 1000px;
   opacity: 0;
 }
 
