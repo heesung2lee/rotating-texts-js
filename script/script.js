@@ -50,5 +50,6 @@ function splitLetters(word) {
   wordArray.push(letters);
 }
 
+
 changeWord();
 setInterval(changeWord, 4000);
