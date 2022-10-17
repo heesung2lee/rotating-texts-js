@@ -2,6 +2,7 @@ var words = document.getElementsByClassName('word');
 var wordArray = [];
 var currentWord = 0;
 
+
 words[currentWord].style.opacity = 1;
 for (var i = 0; i < words.length; i++) {
   splitLetters(words[i]);
